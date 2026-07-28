@@ -7,7 +7,7 @@ Security research and configuration analysis of the **Zyxel NWA1123-ACv2**, an E
 ## TL;DR
 
 - Device: Zyxel NWA1123-ACv2, firmware `<version>`, EOL as of `<date>`
-- Key finding: WPA-PSK passphrase is stored **in cleartext** in the device's configuration backup/export file — no cracking required if a backup file is ever exposed
+- Key finding: WPA-PSK passphrase is stored **in cleartext** in the device's configuration backup/export file no cracking required if a backup file is ever exposed
 - `<second finding one-liner>`
 - Scope: personally owned hardware, isolated test network, no third-party systems involved
 
